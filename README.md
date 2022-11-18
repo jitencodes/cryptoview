@@ -5,7 +5,7 @@ A Cryptocurrency Price-tracking website which provides the realtime information 
 -  makestyles by material design for css styling
 -  firebase for authentication and database
 -  AntDesign (components and icons)
--  Redux for state management
+-  Context Api for state management
 -  Firebase hosting for hosting.
 
 In the project directory, you can run:
